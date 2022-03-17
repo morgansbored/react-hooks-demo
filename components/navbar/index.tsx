@@ -18,9 +18,9 @@ const Navbar: NextComponentType = () => {
           fontSize={{ base: "3xl", sm: "4xl", md: "6xl" }}
           lineHeight={"110%"}
         >
-          shop{" "}
+          react hooks{" "}
           <Text as={"span"} color={"blue.500"}>
-            today
+            demo
           </Text>
         </Heading>
       </Stack>
